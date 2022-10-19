@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joanalawer
-- 👀 I’m interested in Informatics, Data Analysis, Data Science, Machine Learning
+- 👀 I’m interested in Data Analysis, Data Science, Machine Learning, Informatics, NLP
 - 🌱 I’m currently learning Tableau, SysAdmin and IT Infrastructure, C programming 
 - 💞️ I’m looking to collaborate on open source and real world projects relating to informatics.
 - 📫 How to reach me https://www.linkedin.com/in/joanalawer/ 
